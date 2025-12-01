@@ -1,0 +1,7 @@
+.idea/
+zig
+*.o
+main
+input.txt
+input_test.txt
+.zig-cache
